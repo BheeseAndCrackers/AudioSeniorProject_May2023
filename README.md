@@ -26,4 +26,7 @@ We decided to use Spotify's API and its "get audio features" function. This func
 
 We believed these parameters would offer the most straightforward and objective route to mapping songs to color schemes.
 
+# Future
+This project is getting shelved/archived for now, as the class I wrote this for ended, and the company had greater priorites than this project at that time. Overall, It was very rewarding learning so much in such a short time; albiet very stressful.
+
 
